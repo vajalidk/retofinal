@@ -4,3 +4,10 @@ logs/
 __pycache__/
 .DS_Store
 
+# Docker
+*.pyc
+__pycache__/
+logs/
+.env
+*.log
+
